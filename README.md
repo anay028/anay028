@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently learning **new technologies**
+- 🔭 I’m currently exploring **new technologies**
 
 - 🌱 I’m currently learning **ReactJS and other libraries and frameworks.**
 
